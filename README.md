@@ -16,7 +16,8 @@ Desde 2018, trabalho na área de testes de software, com formação em Análise 
  
  ### 🗂️ Projetinhos
  ##
-   * Automação com Robot Framework
-   * Automação com Cypress 
+   * Automação com Robot Framework -- auto_robot_framework
+   * Automação com Cypress         --
+   * Conhecendo Git e GITHUB       -- knowing_git_github
  ##
   
