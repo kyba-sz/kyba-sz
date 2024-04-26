@@ -16,8 +16,8 @@ Desde 2018, trabalho na área de testes de software, com formação em Análise 
  
  ### 🗂️ Projetinhos
  ##
-   * Automação com Robot Framework -- auto_robot_framework
-   * Automação com Cypress         --
-   * Conhecendo Git e GITHUB       -- knowing_git_github
+   * [Automação com Robot Framework](https://github.com/Kelly-bads/auto_robot_framework)
+   * [Automação com Cypress ](https://github.com/Kelly-bads/auto_cypress)
+   * [Conhecendo Git e Github](https://github.com/Kelly-bads/knowing_git_github)
  ##
   
