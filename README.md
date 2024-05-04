@@ -4,7 +4,7 @@
 
 ##
 
-Desde 2018, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou expandindo minha expertise com duas pós-graduações na PUC, uma em Arquitetura de Software e outra em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
+Desde 2019, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou expandindo minha expertise com duas pós-graduações na PUC, uma em Arquitetura de Software e outra em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
 
 
 <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelly-sz/)<a href="https://instagram.com/kyba_sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
