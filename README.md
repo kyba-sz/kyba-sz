@@ -22,17 +22,14 @@ Desde 2019, trabalho na área de testes de software, com formação em Análise 
 <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg " alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg " alt="go" width="40" height="40"/></a>
-<a href="https://angularjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpluscplus" width="40" height="40"/></a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " alt="java" width="40" height="40"/></a>
-<a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visualstudio" width="40" height="40"/></a>
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/></a>
@@ -42,15 +39,12 @@ Desde 2019, trabalho na área de testes de software, com formação em Análise 
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://swagger.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg " alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>
 <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/></a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/></a>
