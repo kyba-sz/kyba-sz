@@ -1,7 +1,5 @@
 ## Oiii! sou Kelly Barbosa!
-### 👩‍💻 QA analyst
-<img align="right" width="350" src="https://media.licdn.com/dms/image/D4D12AQG72PQjya9pvw/article-cover_image-shrink_720_1280/0/1706206538147?e=1719446400&v=beta&t=2p-aLBv8hACbdcBE-up4gUny-hBP1F32cyN7YiONXK4"/>
-
+### 👩‍💻 Quality Assurance Analyst
 ##
 
 Desde 2019, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou expandindo minha expertise com duas pós-graduações na PUC, uma em Arquitetura de Software e outra em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
