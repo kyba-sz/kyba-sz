@@ -1,60 +1,65 @@
 ## Oiii! sou Kelly Barbosa!
-### 👩‍💻 Quality Assurance Analyst
+<table>
+  <tr>
+   <td><h3> 👩‍💻 Quality Assurance Analyst </h3>
+    Desde 2019, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou expandindo minha expertise com duas pós-graduações na PUC, uma em Arquitetura de Software e outra em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
+    <br>
+    <br>
+    <br>
+    <a href="(https://www.linkedin.com/in/kelly-sz)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/kyba_sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    </td>
+    <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttZWhmdmxjdWU1YnIzbm9tcW5wNmptbDB1dnlkNXo3a2kxam1iNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif" height="340" width="340" alt="Imagem"></td>
+  </tr>
+</table>
+
+### 🔥 Habilidades
+
+#### Linguagens de programação & Softwares
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Charp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=C%23&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-purple?style=for-the-badge&logo=Cypress&logoColor=white)
+
+![JUnit](https://img.shields.io/badge/JUnit-brightgreen?style=for-the-badge&logo=JUnit&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=Selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-darkgreen?style=for-the-badge&logo=Cucumber&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+#### Banco de dados
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-yellow?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongo%20DB-darkgreen?style=for-the-badge&logo=Mongo%20DB&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=MySQL&logoColor=white)
+
+#### Ferramentas & Frameworks
+
+![Postan](https://img.shields.io/badge/Postan-darkorange?style=for-the-badge&logo=Postan&logoColor=white)
+![SoupUI](https://img.shields.io/badge/SoupUI-yellow?style=for-the-badge&logo=SoupUI&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Jmeter](https://img.shields.io/badge/Jmeter-darkred?style=for-the-badge&logo=Jmeter&logoColor=white)
+![RobotFramework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logo=RobotFramework&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-darkorange?style=for-the-badge&logo=AWS&logoColor=white)
+![Git](https://img.shields.io/badge/Git-darkorange?style=for-the-badge&logo=Git&logoColor=white)
+
+#### Sistemas Operacionais
+![Windowns](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-orange?style=for-the-badge&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=Kali%20linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
 ##
+### 🗂️ Principais projetos
+<!-- Site para criar botões https://shields.io/badges -->
+![Automação com Robot Framework](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20com%20Robot%20Framework-black?style=for-the-badge&logoColor=30A3DC&link=https%3A%2F%2Fgithub.com%2FKelly-bads%2Fauto_robot_framework)
+![Automação com Cypress](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20com%20Cypress-gray?style=for-the-badge&logoColor=30A3DC&link=https%3A%2F%2Fgithub.com%2FKelly-bads%2Fauto_cypress)
+![A definir](https://img.shields.io/badge/A%20definir-black?style=for-the-badge)
+![A definir](https://img.shields.io/badge/A%20definir-gray?style=for-the-badge)
 
-Desde 2019, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou expandindo minha expertise com duas pós-graduações na PUC, uma em Arquitetura de Software e outra em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
+###  
 
-
-<br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelly-sz/)<a href="https://instagram.com/kyba_sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-## 💻 Tecnologias
-
-<p align="left"> 
-<a href="https://www.cypress.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/></a>
-<a href="https://playwright.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a>
-<a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/></a>
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
-<a href="https://junit.org/junit5/"> <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/></a>
-<a href="https://k6.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/></a>
-<a href="https://cucumber.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-<a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg " alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg " alt="go" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpluscplus" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " alt="java" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-
-<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/></a>
-<a href="https://www.android.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://swagger.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg " alt="kubernetes" width="40" height="40"/></a>
-<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-
-##
- 
-### 🗂️ Projetinhos
-##
-  * [Automação com Robot Framework](https://github.com/Kelly-bads/auto_robot_framework)
-  * [Automação com Cypress ](https://github.com/Kelly-bads/auto_cypress)
-  * [Conhecendo Git e Github](https://github.com/Kelly-bads/knowing_git_github)
-##
   
