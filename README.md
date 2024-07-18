@@ -6,7 +6,7 @@
     <br>
     <br>
     <br>
-    <a href="(https://www.linkedin.com/in/kelly-sz)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/kelly-sz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/kyba_sz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </td>
     <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttZWhmdmxjdWU1YnIzbm9tcW5wNmptbDB1dnlkNXo3a2kxam1iNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif" height="340" width="340" alt="Imagem"></td>
