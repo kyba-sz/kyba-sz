@@ -2,7 +2,7 @@
 <table>
   <tr>
    <td><h3> 👩‍💻 Quality Assurance Analyst </h3>
-    Desde 2019, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou expandindo minha expertise com duas pós-graduações na PUC, uma em Arquitetura de Software e outra em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
+    Desde 2019, trabalho na área de testes de software, com formação em Análise e Desenvolvimento de Sistemas e pós-graduada em Arquitetura de Software. Atualmente, estou expandindo minha expertise com outra pós-graduaçao em Segurança Cibernética. Busco desafiar-me a criar algo próprio, planejando, desenvolvendo e testando projetos de ponta a ponta fora do ambiente profissional e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, implementações e tecnologias. Este é meu auto convite para explorar, aprender e crescer além dos limites pré-estabelecidos.
     <br>
     <br>
     <br>
