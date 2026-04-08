@@ -6,8 +6,11 @@
     Desde 2018 atuando na área de tecnologia, sou especialista em Qualidade de Software, com sólida experiência em testes manuais e automação (Web e Mobile), atuando em diferentes contextos e metodologias como ágil, semi-ágil e cascata.
      <br/>
     Possuo formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Arquitetura de Software, Ciência de Dados e Segurança Cibernética. Atualmente, estou expandindo minha expertise com uma nova pós-graduação em Inteligência Artificial e Segurança Cibernética.
+     <br>
     Ao longo da minha trajetória, desenvolvi uma visão estratégica da qualidade, integrando testes, segurança e arquitetura para garantir soluções robustas, seguras e escaláveis.
+     <br>
     Busco constantemente me desafiar criando projetos próprios, planejando, desenvolvendo e testando soluções de ponta a ponta fora do ambiente corporativo e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, tecnologias e implementações.
+     <br>
     Este é meu convite contínuo para explorar, aprender e evoluir além dos limites pré-estabelecidos.
     <br><br><br>
     <a href="https://linktr.ee/kyba_tech" target="_blank">
