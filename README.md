@@ -58,11 +58,3 @@
 ![Linux](https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali%20Linux-purple?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-### 🗂️ Principais projetos
-![Automação com Robot Framework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge)
-![Automação com Cypress](https://img.shields.io/badge/Cypress-gray?style=for-the-badge)
-![Em breve](https://img.shields.io/badge/Em%20breve-black?style=for-the-badge)
-![Em breve](https://img.shields.io/badge/Em%20breve-gray?style=for-the-badge)
