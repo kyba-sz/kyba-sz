@@ -26,7 +26,7 @@
 ### 🔥 Habilidades
 
 #### 💻 Linguagens & Automação
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+- Linguagens: ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +37,6 @@
 
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-darkgreen?style=for-the-badge&logo=cucumber&logoColor=white)
-- Testes E2E, API e integração  
 
 
 #### ⚙️ DevOps & Ferramentas
