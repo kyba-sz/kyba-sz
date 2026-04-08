@@ -37,6 +37,7 @@
 
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-darkgreen?style=for-the-badge&logo=cucumber&logoColor=white)
+- Testes E2E, API e integração  
 
 
 #### ⚙️ DevOps & Ferramentas
