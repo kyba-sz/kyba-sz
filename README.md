@@ -3,7 +3,8 @@
 <table>
   <tr>
    <td><h3> 👩‍💻 Senior Quality Assurance Engineer </h3>
-    Desde 2018 atuando na área de tecnologia, sou especialista em Qualidade de Software, com sólida experiência em testes manuais e automação (Web e Mobile), atuando em diferentes contextos e metodologias como ágil, semi-ágil e cascata. 
+    Desde 2018 atuando na área de tecnologia, sou especialista em Qualidade de Software, com sólida experiência em testes manuais e automação (Web e Mobile), atuando em diferentes contextos e metodologias como ágil, semi-ágil e cascata.
+     <br/>
     Possuo formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Arquitetura de Software, Ciência de Dados e Segurança Cibernética. Atualmente, estou expandindo minha expertise com uma nova pós-graduação em Inteligência Artificial e Segurança Cibernética.
     Ao longo da minha trajetória, desenvolvi uma visão estratégica da qualidade, integrando testes, segurança e arquitetura para garantir soluções robustas, seguras e escaláveis.
     Busco constantemente me desafiar criando projetos próprios, planejando, desenvolvendo e testando soluções de ponta a ponta fora do ambiente corporativo e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, tecnologias e implementações.
