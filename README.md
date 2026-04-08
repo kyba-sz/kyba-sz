@@ -26,7 +26,7 @@
 ### 🔥 Habilidades
 
 #### 💻 Linguagens & Automação
-- Linguagens: ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,13 +38,13 @@
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-black?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-darkgreen?style=for-the-badge&logo=cucumber&logoColor=white)
 
-
-#### ⚙️ DevOps & Ferramentas
+#### ⚙️ DevOps & Qualidade Contínua
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 
+#### 🔍 Testes & Qualidade
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-yellow?style=for-the-badge&logo=soapui&logoColor=black)
 ![JMeter](https://img.shields.io/badge/JMeter-red?style=for-the-badge&logo=apachejmeter&logoColor=white)
