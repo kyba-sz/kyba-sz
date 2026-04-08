@@ -4,22 +4,15 @@
   <tr>
    <td><h3> 👩‍💻 Senior Quality Assurance Engineer </h3>
     Desde 2018 atuando na área de tecnologia, sou especialista em Qualidade de Software, com sólida experiência em testes manuais e automação (Web e Mobile), atuando em diferentes contextos e metodologias como ágil, semi-ágil e cascata. 
-
     Possuo formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Arquitetura de Software, Ciência de Dados e Segurança Cibernética. Atualmente, estou expandindo minha expertise com uma nova pós-graduação em Inteligência Artificial e Segurança Cibernética.
-
     Ao longo da minha trajetória, desenvolvi uma visão estratégica da qualidade, integrando testes, segurança e arquitetura para garantir soluções robustas, seguras e escaláveis.
-
     Busco constantemente me desafiar criando projetos próprios, planejando, desenvolvendo e testando soluções de ponta a ponta fora do ambiente corporativo e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, tecnologias e implementações.
-
     Este é meu convite contínuo para explorar, aprender e evoluir além dos limites pré-estabelecidos.
-    
     <br><br><br>
-
     <a href="https://linktr.ee/kyba_tech" target="_blank">
       <img src="https://img.shields.io/badge/-Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
     </td>
-
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ttZWhmdmxjdWU1YnIzbm9tcW5wNmptbDB1dnlkNXo3a2kxam1iNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif" height="340" width="340" alt="Imagem">
     </td>
