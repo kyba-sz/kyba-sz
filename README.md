@@ -10,7 +10,7 @@
     Ao longo da minha trajetória, desenvolvi uma visão estratégica da qualidade, integrando testes, segurança e arquitetura para garantir soluções robustas, seguras e escaláveis.
      <br>
     Busco constantemente me desafiar criando projetos próprios, planejando, desenvolvendo e testando soluções de ponta a ponta fora do ambiente corporativo e acadêmico. Meu objetivo é utilizar minhas habilidades técnicas para explorar novos conceitos, tecnologias e implementações.
-     <br>
+    <br><br>
     Este é meu convite contínuo para explorar, aprender e evoluir além dos limites pré-estabelecidos.
     <br><br><br>
     <a href="https://linktr.ee/kyba_tech" target="_blank">
